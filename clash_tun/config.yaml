@@ -1,0 +1,11 @@
+name: "clash tun"
+description: "clash tun"
+version: "1.0.0"
+slug: "clash_tun"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
